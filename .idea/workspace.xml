@@ -4,7 +4,6 @@
     <list default="true" id="bb070b93-fceb-41c2-9d47-11d202a9c9b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588353844639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated MONGOLAB_URI to MONGODB_URI because it was changed recently">
+      <created>1588355749717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588355749717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,10 +140,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="179" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585352904785" />
-    <state x="2534" y="173" key="CommitChangelistDialog2" timestamp="1588353844072">
+    <state x="2534" y="173" key="CommitChangelistDialog2" timestamp="1588355749182">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
-    <state x="2534" y="173" key="CommitChangelistDialog2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588353844072" />
+    <state x="2534" y="173" key="CommitChangelistDialog2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588355749182" />
     <state width="1899" height="247" key="GridCell.Tab.0.bottom" timestamp="1588355741773">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
