@@ -2,8 +2,9 @@ import os
 from typing import Dict
 import pymongo
 
+
 class Database:
-    URI = os.environ.get("MONGOLAB_URI")
+    URI = os.environ.get("MONGODB_URI")
     DATABASE = None
 
     @staticmethod
@@ -22,7 +23,7 @@ class Database:
     @staticmethod
     def find_one(collection: str, query: Dict) -> Dict:
         return Database.DATABASE[collection].find_one(query)
-    
+
     @staticmethod
     def update(collection: str, query: Dict, data: Dict) -> None:
         Database.DATABASE[collection].update(query, data, upsert=True)
