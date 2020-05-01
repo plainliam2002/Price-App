@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb070b93-fceb-41c2-9d47-11d202a9c9b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assign8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assign8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.py" afterDir="false" />
     </list>
@@ -122,9 +119,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588349410675" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1588349386038">
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1588349794286">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588349386038" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588349794286" />
   </component>
 </project>
