@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb070b93-fceb-41c2-9d47-11d202a9c9b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Liam.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588355904327</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated MONGOLAB_URI to MONGODB_URI because it was changed recently">
+      <created>1588357060567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588357060567</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,10 +161,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="179" width="1092" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1585352904785" />
-    <state x="2534" y="173" key="CommitChangelistDialog2" timestamp="1588355903863">
+    <state x="2534" y="173" key="CommitChangelistDialog2" timestamp="1588357060078">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
-    <state x="2534" y="173" key="CommitChangelistDialog2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588355903863" />
+    <state x="2534" y="173" key="CommitChangelistDialog2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588357060078" />
+    <state x="2104" y="140" key="DiffContextDialog" timestamp="1588357067410">
+      <screen x="1920" y="54" width="1920" height="1050" />
+    </state>
+    <state x="2104" y="140" key="DiffContextDialog/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588357067410" />
     <state width="1899" height="247" key="GridCell.Tab.0.bottom" timestamp="1588357049896">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
@@ -184,10 +194,10 @@
     </state>
     <state x="461" y="167" key="SettingsEditor/1920.54.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588349410675" />
     <state x="2381" y="221" key="SettingsEditor/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588355307714" />
-    <state x="2472" y="311" key="Vcs.Push.Dialog.v2" timestamp="1588355889679">
+    <state x="2472" y="311" key="Vcs.Push.Dialog.v2" timestamp="1588357072498">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
-    <state x="2472" y="311" key="Vcs.Push.Dialog.v2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588355889679" />
+    <state x="2472" y="311" key="Vcs.Push.Dialog.v2/1920.54.1920.1050/0.0.1920.1050@1920.54.1920.1050" timestamp="1588357072498" />
     <state x="2576" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1588350172540">
       <screen x="1920" y="54" width="1920" height="1050" />
     </state>
