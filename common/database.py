@@ -5,8 +5,7 @@ import pymongo
 
 class Database:
     URI = os.environ.get("MONGODB_URI")
-    DATABASE = "heroku_s67w94x6"
-
+    DATABASE = pymongo.MongoClient(URI).get_default_database()
 
     @staticmethod
     def insert(collection: str, data: Dict) -> None:
