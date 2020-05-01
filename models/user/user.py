@@ -1,11 +1,10 @@
 import uuid
 from dataclasses import dataclass, field
-from typing import Dict, List
+from typing import Dict
 
-from models.model import Model
-from common.database import Database
-from common.utils import Utils
 import models.user.errors as UserErrors
+from common.utils import Utils
+from models.model import Model
 
 
 @dataclass
@@ -49,7 +48,7 @@ class User(Model):
         """
         if not Utils.email_is_valid(email):
             raise UserErrors.InvalidEmailError("The e-mail does not have the right format.")
-        
+
         try:
             user = cls.find_by_email(email)
             raise UserErrors.UserAlreadyRegisteredError("The e-mail you used to register already exists.")
